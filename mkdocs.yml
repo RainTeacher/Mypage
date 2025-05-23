@@ -3,13 +3,15 @@ site_url: https://rainteacher.github.io/Mypage/
 
 nav:
   - 首页: index.md
-  - 第一部分:
+  - Operation Management:
       - Part1/index.md
-      - 随机文本: Part1/File1.md
-  - 第二部分:
+      - 研究简介: Part1/File1.md
+  - Operation Research:
       - Part2/index.md
-  - 第三部分:
+      - 研究简介: Part2/File2.md
+  - Reinforcement Learning:
       - Part3/index.md
+      - 研究简介: Part3/File3.md
 docs_dir: docs/
 
 theme:

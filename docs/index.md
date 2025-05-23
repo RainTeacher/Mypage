@@ -1,17 +1,12 @@
-# Welcome to GuoYurong.Page
+# 欢迎参观Goo的主页
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## !!!
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* 这是一个从0开始搭建个人网站的过程！加油！
 
-## Project layout
+## Interests 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* `Operation Management` - Inventory management, Production scheduling
+* `Operation Research` - Linear programming, Mixed-interger programming
+* `Reinforcement Learning` - Multi-agent, Game theroy
