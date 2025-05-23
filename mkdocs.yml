@@ -15,22 +15,15 @@ nav:
 docs_dir: docs/
 
 theme:
-  name: material
-  features:
-    - navigation.tabs
-    - search.suggest
-    - search.highlight
-    - search.share
-    - navigation.top
-    - navigation.indexes
-  palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+  name: null
+  custom_dir: mkdocs_custommill
+  # Copy settings from mkdocs_theme.yml, which is ignored by custom_dir themes.
+  static_templates: [404.html, index.html, css/base.css]
+  search_index_only: true
+  include_search_page: true
+  home: usage
+  main_color: "#bb0000"
+  gray: "#d0d0d0"
+  lighter_gray: "#eeeeee"
+  date_time_format: "%Y-%m-%d %H:%M:%S %Z"
+  toc_depth: 2
