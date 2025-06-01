@@ -1,1 +1,3 @@
-# Game Theory and Multi-agent Reinforcement Learning
+# JOURNAL
+
+ICML、NeurIPS、ICLR

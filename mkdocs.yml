@@ -2,16 +2,16 @@ site_name: My Personal Page
 site_url: https://rainteacher.github.io/Mypage/
 
 nav:
-  - 首页: index.md
+  - Home Page: index.md
   - Operation Management:
       - Part1/index.md
-      - 研究简介: Part1/File1.md
+      - Research: Part1/File1.md
   - Operation Research:
       - Part2/index.md
-      - 研究简介: Part2/File2.md
+      - Research: Part2/File2.md
   - Machine Learning:
       - Part3/index.md
-      - 研究简介: Part3/File3.md
+      - Research: Part3/File3.md
 docs_dir: docs/
 
 theme:
