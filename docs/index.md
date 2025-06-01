@@ -1,16 +1,28 @@
-# 欢迎参观Goo的主页
+# Curriculum Vitae
 
 
-## !!!
+## NAME
 
-* Personal Page
+* Guo
 
-## Interests 
+## CONTACT
+
+* `Phone` - +86
+* `Email` - @
+
+## EDUCATION
+
+* `Undergraduate` - University
+* `Master` - University
+
+## INTEREST 
 
 * `Operation Management` - Supply chain management
 * `Operation Research` - Data-driven optimization under uncertainty
 * `Machine Learning` - Learning to optimization
 
-## Research experience 
+## PROJECT 
 
 * `Equipment Pre Research Project` - Demand forecasting and allocation optimization in multi-echelon spare part inventory system
+
+## PUBLICATION
