@@ -3,10 +3,14 @@
 
 ## !!!
 
-* 这是一个从0开始搭建个人网站的过程！加油！
+* Personal Page
 
 ## Interests 
 
-* `Operation Management` - Inventory management, Production scheduling
-* `Operation Research` - Linear programming, Mixed-interger programming
-* `Reinforcement Learning` - Multi-agent, Game theroy
+* `Operation Management` - Supply chain management
+* `Operation Research` - Data-driven optimization under uncertainty
+* `Machine Learning` - Learning to optimization
+
+## Research experience 
+
+* `Equipment Pre Research Project` - Demand forecasting and allocation optimization in multi-echelon spare part inventory system

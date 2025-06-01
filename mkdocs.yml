@@ -9,7 +9,7 @@ nav:
   - Operation Research:
       - Part2/index.md
       - 研究简介: Part2/File2.md
-  - Reinforcement Learning:
+  - Machine Learning:
       - Part3/index.md
       - 研究简介: Part3/File3.md
 docs_dir: docs/
