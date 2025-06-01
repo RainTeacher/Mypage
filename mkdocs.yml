@@ -3,13 +3,13 @@ site_url: https://rainteacher.github.io/Mypage/
 
 nav:
   - Home Page: index.md
-  - Operation Management:
+  - OM:
       - Part1/index.md
       - Research: Part1/File1.md
-  - Operation Research:
+  - OR:
       - Part2/index.md
       - Research: Part2/File2.md
-  - Machine Learning:
+  - ML:
       - Part3/index.md
       - Research: Part3/File3.md
 docs_dir: docs/
