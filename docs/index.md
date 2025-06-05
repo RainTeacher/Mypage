@@ -17,8 +17,8 @@
 
 ## INTEREST 
 
-* `Operation Management` - Supply chain management
-* `Operation Research` - Data-driven optimization under uncertainty
+* `Operation Management` - Supply chain management, Inventory management, Production scheduling 
+* `Operation Research` - Optimization under uncertainty, Mixed-integer programming
 * `Machine Learning` - Learning to optimization
 
 ## PROJECT 
@@ -26,3 +26,6 @@
 * `Equipment Pre Research Project` - Demand forecasting and allocation optimization in multi-echelon spare part inventory system
 
 ## PUBLICATION
+
+## Ref.
+https://smilingwayne.github.io/me/Website/Step1/
