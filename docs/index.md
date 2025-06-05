@@ -17,7 +17,7 @@
 
 ## INTEREST 
 
-* `Operation Management` - Supply chain management, Inventory management, Production scheduling 
+* `Operation Management` - Supply chain management, Inventory management
 * `Operation Research` - Optimization under uncertainty, Mixed-integer programming
 * `Machine Learning` - Learning to optimization
 
